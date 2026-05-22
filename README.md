@@ -69,7 +69,7 @@ Building robust AI agents using LangChain — learning how to integrate LLMs and
 ## 📬 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitjaiswal899@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-jaiswar-baa71a135?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-2E86C1?style=for-the-badge)
 
 💼 Open to **backend & full-stack SWE roles**
